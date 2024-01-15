@@ -5,7 +5,9 @@ class Constructor extends React.Component{
         super(props);
         console.warn('constructor');
     }
-    render() {
+    
+
+    render()
         console.warn('render');
       return (
         <div>
