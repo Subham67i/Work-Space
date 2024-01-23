@@ -1,0 +1,12 @@
+body{
+    color: white;
+    background-color: rgb(230, 22, 22);
+    text-align: center;
+    margin-top: 250;
+    font-size: 45px;
+    font-style: inherit;
+}
+.paragrap{
+    font-size: 20px;
+    color: white;
+}
