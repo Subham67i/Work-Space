@@ -1,0 +1,21 @@
+/* universal selector (*) */
+*{
+   font-family: fantasy;
+}
+body{
+    background-color: darkgray;
+}
+p:hover{
+    font-family: monospace;
+}
+#first, #second{
+    background-color: azure;
+    color: blueviolet;
+}
+.purpal{
+    color: purple;
+}
+.higlit{
+    background-color: rgb(252, 255, 56);
+    color: rgb(78, 163, 236);
+}
