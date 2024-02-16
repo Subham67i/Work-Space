@@ -1,0 +1,21 @@
+main{
+    border: 5px dotted black;
+    width: 25%;
+    /* width: 100vw; */
+}
+section{
+    border: 5px solid red;
+    /* width: 50%; */
+    width: 50vw;
+    /* height: 100vh; */
+}
+h1{
+    font-size: 2rem;
+}
+h3{
+    font-size: 1.5rem;
+}
+p{
+    font-size: 1.5rem;
+}
+
