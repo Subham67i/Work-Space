@@ -1,0 +1,11 @@
+h3 {
+    text-align: center;
+    color: darkblue;
+    text-decoration: auto;
+    text-transform: uppercase;
+}
+span{
+    letter-spacing: 0.5rem;
+    text-shadow: 2px 2px 5px blueviolet;
+    /* color: transparent;   blure krr ne ke liye */
+}
